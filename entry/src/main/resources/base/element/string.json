@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Adaptive haptics sample" },
+    { "name": "EntryAbility_desc", "value": "Haptic presets with time-based fallback and patterns" },
+    { "name": "EntryAbility_label", "value": "HapticLab" },
+    { "name": "title", "value": "HapticLab" },
+    { "name": "feedback", "value": "Feedback" },
+    { "name": "patterns", "value": "Patterns" },
+    { "name": "btn_play", "value": "Play" },
+    { "name": "btn_stop", "value": "Stop" },
+    { "name": "force_fallback", "value": "Force fallback" },
+    { "name": "preset_support", "value": "Preset support" },
+    { "name": "banner_vibration_failed", "value": "Vibration failed. Check the permission and the vibration setting of the watch." },
+    { "name": "event_log", "value": "Event log" }
+  ]
+}
